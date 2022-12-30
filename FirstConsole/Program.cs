@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+using sahil;
 Console.WriteLine("Hello, World!");
+
+ Calculator.run();
