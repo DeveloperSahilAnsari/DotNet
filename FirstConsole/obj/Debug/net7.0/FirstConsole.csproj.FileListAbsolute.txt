@@ -1,0 +1,15 @@
+D:\Sahil Ansari DotNet\FirstConsole\bin\Debug\net7.0\FirstConsole.exe
+D:\Sahil Ansari DotNet\FirstConsole\bin\Debug\net7.0\FirstConsole.deps.json
+D:\Sahil Ansari DotNet\FirstConsole\bin\Debug\net7.0\FirstConsole.runtimeconfig.json
+D:\Sahil Ansari DotNet\FirstConsole\bin\Debug\net7.0\FirstConsole.dll
+D:\Sahil Ansari DotNet\FirstConsole\bin\Debug\net7.0\FirstConsole.pdb
+D:\Sahil Ansari DotNet\FirstConsole\obj\Debug\net7.0\FirstConsole.csproj.AssemblyReference.cache
+D:\Sahil Ansari DotNet\FirstConsole\obj\Debug\net7.0\FirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sahil Ansari DotNet\FirstConsole\obj\Debug\net7.0\FirstConsole.AssemblyInfoInputs.cache
+D:\Sahil Ansari DotNet\FirstConsole\obj\Debug\net7.0\FirstConsole.AssemblyInfo.cs
+D:\Sahil Ansari DotNet\FirstConsole\obj\Debug\net7.0\FirstConsole.csproj.CoreCompileInputs.cache
+D:\Sahil Ansari DotNet\FirstConsole\obj\Debug\net7.0\FirstConsole.dll
+D:\Sahil Ansari DotNet\FirstConsole\obj\Debug\net7.0\refint\FirstConsole.dll
+D:\Sahil Ansari DotNet\FirstConsole\obj\Debug\net7.0\FirstConsole.pdb
+D:\Sahil Ansari DotNet\FirstConsole\obj\Debug\net7.0\FirstConsole.genruntimeconfig.cache
+D:\Sahil Ansari DotNet\FirstConsole\obj\Debug\net7.0\ref\FirstConsole.dll
