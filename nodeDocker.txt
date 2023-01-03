@@ -1,0 +1,36 @@
+git clone
+git add .
+git commit -m ""
+git push
+
+AWS 
+EC@
+launch instance
+give name
+key pair
+ppk
+
+go to EC2
+connect
+
+Docker
+sudo yum update
+sudo yum install git
+git clone ""
+ls
+cd dirname
+ls
+sudo yum install docker
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo systemctl status docker
+sudo docker images
+(buitd image)
+sudo docker build -t testaap(dirname) .
+sudo docker images
+sudo docker run -d -p 4000:4000 testapp
+sudo docker ps
+
+
+
+
