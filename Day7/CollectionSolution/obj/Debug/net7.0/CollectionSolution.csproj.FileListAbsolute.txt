@@ -1,0 +1,15 @@
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\obj\Debug\net7.0\CollectionSolution.csproj.AssemblyReference.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\obj\Debug\net7.0\CollectionSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\obj\Debug\net7.0\CollectionSolution.AssemblyInfoInputs.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\obj\Debug\net7.0\CollectionSolution.AssemblyInfo.cs
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\obj\Debug\net7.0\CollectionSolution.csproj.CoreCompileInputs.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\bin\Debug\net7.0\CollectionSolution.exe
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\bin\Debug\net7.0\CollectionSolution.deps.json
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\bin\Debug\net7.0\CollectionSolution.runtimeconfig.json
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\bin\Debug\net7.0\CollectionSolution.dll
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\bin\Debug\net7.0\CollectionSolution.pdb
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\obj\Debug\net7.0\CollectionSolution.dll
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\obj\Debug\net7.0\refint\CollectionSolution.dll
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\obj\Debug\net7.0\CollectionSolution.pdb
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\obj\Debug\net7.0\CollectionSolution.genruntimeconfig.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\obj\Debug\net7.0\ref\CollectionSolution.dll

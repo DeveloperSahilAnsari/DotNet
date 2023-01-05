@@ -1,0 +1,15 @@
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\bin\Debug\net7.0\Extendable.exe
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\bin\Debug\net7.0\Extendable.deps.json
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\bin\Debug\net7.0\Extendable.runtimeconfig.json
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\bin\Debug\net7.0\Extendable.dll
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\bin\Debug\net7.0\Extendable.pdb
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\obj\Debug\net7.0\Extendable.csproj.AssemblyReference.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\obj\Debug\net7.0\Extendable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\obj\Debug\net7.0\Extendable.AssemblyInfoInputs.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\obj\Debug\net7.0\Extendable.AssemblyInfo.cs
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\obj\Debug\net7.0\Extendable.csproj.CoreCompileInputs.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\obj\Debug\net7.0\Extendable.dll
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\obj\Debug\net7.0\refint\Extendable.dll
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\obj\Debug\net7.0\Extendable.pdb
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\obj\Debug\net7.0\Extendable.genruntimeconfig.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day7\CollectionSolution\Extendable\obj\Debug\net7.0\ref\Extendable.dll
