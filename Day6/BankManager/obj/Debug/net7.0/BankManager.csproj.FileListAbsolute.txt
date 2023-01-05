@@ -1,0 +1,15 @@
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\obj\Debug\net7.0\BankManager.csproj.AssemblyReference.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\obj\Debug\net7.0\BankManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\obj\Debug\net7.0\BankManager.AssemblyInfoInputs.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\obj\Debug\net7.0\BankManager.AssemblyInfo.cs
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\obj\Debug\net7.0\BankManager.csproj.CoreCompileInputs.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\bin\Debug\net7.0\BankManager.exe
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\bin\Debug\net7.0\BankManager.deps.json
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\bin\Debug\net7.0\BankManager.runtimeconfig.json
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\bin\Debug\net7.0\BankManager.dll
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\bin\Debug\net7.0\BankManager.pdb
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\obj\Debug\net7.0\BankManager.dll
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\obj\Debug\net7.0\refint\BankManager.dll
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\obj\Debug\net7.0\BankManager.pdb
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\obj\Debug\net7.0\BankManager.genruntimeconfig.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day6\BankManager\obj\Debug\net7.0\ref\BankManager.dll

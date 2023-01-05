@@ -1,0 +1,5 @@
+D:\Sahil Ansari DotNet\DotNet-Practice\Day 5\TestBOL\obj\Debug\net7.0\TestBOL.csproj.AssemblyReference.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day 5\TestBOL\obj\Debug\net7.0\TestBOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sahil Ansari DotNet\DotNet-Practice\Day 5\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfoInputs.cache
+D:\Sahil Ansari DotNet\DotNet-Practice\Day 5\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfo.cs
+D:\Sahil Ansari DotNet\DotNet-Practice\Day 5\TestBOL\obj\Debug\net7.0\TestBOL.csproj.CoreCompileInputs.cache
